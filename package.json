@@ -1,6 +1,6 @@
 {
   "name": "jsonwebtoken-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "WIP - trying to reoslve issues with babel and nodejs lodash dependencies. JSON Web Token implementation (symmetric and asymmetric)",
   "main": "index.js",
   "nyc": {
